@@ -1,5 +1,5 @@
-# IR-Assignment1-Team-12
-This GitHub Repository is for IR Assignment 1 of our Group 12. <br><br>
+# IR-Assignment1
+This GitHub Repository is for IR Assignment 1 <br><br>
 Dataset is in the "stories" folder and "main.py" is our code file in python language. <br>
 This Assignment is based on Unigram Inverted Index querying. <br><br>
 
