@@ -34,12 +34,3 @@ Output- <br>
 Number of documents matched: 466 <br>
 No. of comparisons required: 739 <br>
 
-
-<br><br><br>
-
-Group Members: <br>
-* Anjali Singh    : MT20049 <br>
-* Meet Maheshwari : MT20012 <br>
-* Priya Mehta     : MT20033 <br>
-* Shaney Waris    : 2018308 <br>
-* Vaibhav Goswami : MT20018 <br>
