@@ -1,14 +1,5 @@
 # The following code is written for Assignment 1 of IR
 # The Assignment is based on Uni-gram Inverted Index querying
-#
-# Group No 12 : with
-# Priya Mehta     : MT20033
-# Meet Maheshwari : MT20012
-# Vaibhav Goswami : MT20018
-# Shaney Waris    : 2018308
-# Anjali Singh    : MT20049
-#
-# Each member has equal contribution in all of the curriculum tasks until now.
 
 import glob
 import os
